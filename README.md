@@ -5,10 +5,7 @@ Senior PM in healthtech. This is where I build, learn, and experiment on my own 
 [Echo Reading](https://github.com/tibi-iorga/echo-reading) is an open-source AI reading
 companion. Read, annotate, and interrogate a PDF without leaving the page.
 
-[tstack](https://github.com/tibi-iorga/tstack) is a thinking tool for building ideas.
-Slash commands for the kind of reasoning that usually only comes from experience.
+[tstack](https://github.com/tibi-iorga/tstack) is my list of skills I use daily in my PM work.
 
-[tibiworks.com](https://tibiworks.com) is my site, where I write. I also built a
-chatbot there that only knows what I've actually published.
-
-Subscribe to the writing at [tibinotes.com](https://tibinotes.com).
+[tibiworks.com](https://tibiworks.com) is my website, where I built a chatbot. I wrote
+about it [here](https://www.tibinotes.com/p/i-made-a-chatbot-so-i-can-talk-about).
