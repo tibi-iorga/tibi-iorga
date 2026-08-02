@@ -1,6 +1,6 @@
 # Tibi Iorga
 
-Some ideas won't leave me alone until I build them. Here are a few that made it out.
+Senior PM in healthtech. This is where I build, learn, and experiment on my own time.
 
 [Echo Reading](https://github.com/tibi-iorga/echo-reading) is an open-source AI reading
 companion. Read, annotate, and interrogate a PDF without leaving the page.
